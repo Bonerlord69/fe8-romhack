@@ -1,0 +1,2 @@
+Include MIDI files for the ROMHack here.
+Please test them first to make sure they don't crash the game. Some songs can have unpredictable results due to the unique nature of FE GBA's MIDI system.

@@ -1,0 +1,2 @@
+Include all .asm files, all EventAssembler files, and documentation of patches implemented in FEBuilderGBA.
+It's crucial you document EVERYTHING, as many patches aren't compatible with each other.

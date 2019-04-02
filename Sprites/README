@@ -1,0 +1,4 @@
+Include all custom sprites here.
+Headshots must follow a certain format to be imported into the hack.
+Remember, most images have a limit to the number of colors that can be used.
+Tools exist in FEBuilderGBA to convert images into lower-color ones; try using them for detailed backgrounds.
